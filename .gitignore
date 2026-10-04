@@ -1,0 +1,19 @@
+# Third-party tools and SDKs
+swigwin-*/
+Camera_SDK/
+
+# Python cache and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build files and binaries
+build/
+devel/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.lib

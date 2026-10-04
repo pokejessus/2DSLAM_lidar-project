@@ -1,0 +1,408 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Arduengo_2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=33886f9cce5ffbf1cf8e05fbe9d5f9d6}{%
+           family={Arduengo},
+           familyi={A\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=778c70c9745c20f56ca9891d66d23159}{%
+           family={Torras},
+           familyi={T\bibinitperiod},
+           given={Carme},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1b7e3f69527189e4c91062599cc2f49b}{%
+           family={Sentis},
+           familyi={S\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{e018de291735f660457319bc1c4b13bb}
+      \strng{fullhash}{e018de291735f660457319bc1c4b13bb}
+      \strng{fullhashraw}{e018de291735f660457319bc1c4b13bb}
+      \strng{bibnamehash}{e018de291735f660457319bc1c4b13bb}
+      \strng{authorbibnamehash}{e018de291735f660457319bc1c4b13bb}
+      \strng{authornamehash}{e018de291735f660457319bc1c4b13bb}
+      \strng{authorfullhash}{e018de291735f660457319bc1c4b13bb}
+      \strng{authorfullhashraw}{e018de291735f660457319bc1c4b13bb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1861-2784}
+      \field{journaltitle}{Intelligent Service Robotics}
+      \field{month}{5}
+      \field{title}{Robust and adaptive door operation with a mobile robot}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1007/s11370-021-00366-7
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/s11370-021-00366-7
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s11370-021-00366-7
+      \endverb
+    \endentry
+    \entry{Chinenov_RRT_2019}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=702005f6f036de05099034b537c6f4d3}{%
+           family={Chinenov},
+           familyi={C\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{702005f6f036de05099034b537c6f4d3}
+      \strng{fullhash}{702005f6f036de05099034b537c6f4d3}
+      \strng{fullhashraw}{702005f6f036de05099034b537c6f4d3}
+      \strng{bibnamehash}{702005f6f036de05099034b537c6f4d3}
+      \strng{authorbibnamehash}{702005f6f036de05099034b537c6f4d3}
+      \strng{authornamehash}{702005f6f036de05099034b537c6f4d3}
+      \strng{authorfullhash}{702005f6f036de05099034b537c6f4d3}
+      \strng{authorfullhashraw}{702005f6f036de05099034b537c6f4d3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{2}
+      \field{note}{Accessed: 2024-05-22}
+      \field{title}{Robotic Path Planning: {RRT} and {RRT}*}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://theclassytim.medium.com/robotic-path-planning-rrt-and-rrt-212319121378
+      \endverb
+      \verb{url}
+      \verb https://theclassytim.medium.com/robotic-path-planning-rrt-and-rrt-212319121378
+      \endverb
+    \endentry
+    \entry{cho2024open}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=2ce168442bc6a23024ebe357b376e147}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Seong\bibnamedelima Hoon},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=12ad64c6a21237d848090957664a7a8f}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Jeany},
+           giveni={J\bibinitperiod}}}%
+        {{hash=84e9a152ce3a7170e1c2ba21b83651d1}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sangryul},
+           giveni={S\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{a312bf61c8376b894e15e4cc18756df4}
+      \strng{fullhash}{67eccac0fa4f7f925812c0e572a5e135}
+      \strng{fullhashraw}{67eccac0fa4f7f925812c0e572a5e135}
+      \strng{bibnamehash}{a312bf61c8376b894e15e4cc18756df4}
+      \strng{authorbibnamehash}{a312bf61c8376b894e15e4cc18756df4}
+      \strng{authornamehash}{a312bf61c8376b894e15e4cc18756df4}
+      \strng{authorfullhash}{67eccac0fa4f7f925812c0e572a5e135}
+      \strng{authorfullhashraw}{67eccac0fa4f7f925812c0e572a5e135}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2402.04894}
+      \field{title}{Open-Vocabulary Attention Maps with Foundation Models}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2402.04894
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2402.04894
+      \endverb
+    \endentry
+    \entry{GeeksforGeeks_YOLO}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f1e069787ece74531d112559945c6871}{%
+           family={{GeeksforGeeks}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {GeeksforGeeks}%
+      }
+      \strng{namehash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhashraw}{f1e069787ece74531d112559945c6871}
+      \strng{bibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorbibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authornamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhashraw}{f1e069787ece74531d112559945c6871}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{11}
+      \field{note}{Accessed: 2024-05-22}
+      \field{title}{{YOLO}: You Only Look Once - Real Time Object Detection}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/machine-learning/yolo-you-only-look-once-real-time-object-detection/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/machine-learning/yolo-you-only-look-once-real-time-object-detection/
+      \endverb
+    \endentry
+    \entry{IBM_LiDAR}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ibm.com/think/topics/lidar}}
+      \field{note}{Accessed: 2024-05-22}
+      \field{title}{What is {LiDAR}?}
+      \field{year}{n.d.}
+    \endentry
+    \entry{Jocher_Ultralytics_YOLO_2023}{software}{}{}
+      \name{author}{3}{}{%
+        {{hash=c5c5e5cd7f4f477f617289b32613deb0}{%
+           family={Jocher},
+           familyi={J\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b8739ebbf3f871d471b6720a02ed541f}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ec281637802454e8df4de72f3b1ee401}{%
+           family={Chaurasia},
+           familyi={C\bibinitperiod},
+           given={Ayush},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d270278cb86ffcfd6356ed5db820a38}
+      \strng{fullhash}{1d270278cb86ffcfd6356ed5db820a38}
+      \strng{fullhashraw}{1d270278cb86ffcfd6356ed5db820a38}
+      \strng{bibnamehash}{1d270278cb86ffcfd6356ed5db820a38}
+      \strng{authorbibnamehash}{1d270278cb86ffcfd6356ed5db820a38}
+      \strng{authornamehash}{1d270278cb86ffcfd6356ed5db820a38}
+      \strng{authorfullhash}{1d270278cb86ffcfd6356ed5db820a38}
+      \strng{authorfullhashraw}{1d270278cb86ffcfd6356ed5db820a38}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{{Ultralytics YOLO}}
+      \field{version}{8.0.0}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://github.com/ultralytics/ultralytics%7D
+      \endverb
+      \verb{url}
+      \verb https://github.com/ultralytics/ultralytics%7D
+      \endverb
+    \endentry
+    \entry{Khokhar_PRM_2021}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=487d5ce3ceaf2665075e802a666d0c0e}{%
+           family={Khokhar},
+           familyi={K\bibinitperiod},
+           given={Arushi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{487d5ce3ceaf2665075e802a666d0c0e}
+      \strng{fullhash}{487d5ce3ceaf2665075e802a666d0c0e}
+      \strng{fullhashraw}{487d5ce3ceaf2665075e802a666d0c0e}
+      \strng{bibnamehash}{487d5ce3ceaf2665075e802a666d0c0e}
+      \strng{authorbibnamehash}{487d5ce3ceaf2665075e802a666d0c0e}
+      \strng{authornamehash}{487d5ce3ceaf2665075e802a666d0c0e}
+      \strng{authorfullhash}{487d5ce3ceaf2665075e802a666d0c0e}
+      \strng{authorfullhashraw}{487d5ce3ceaf2665075e802a666d0c0e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{2}
+      \field{note}{Accessed: 2024-05-22}
+      \field{title}{Probabilistic Roadmap ({PRM}) for Path Planning in Robotics}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://arushi-khokhar.medium.com/probabilistic-roadmap-prm-for-path-planning-in-robotics-d4f4b69475ea
+      \endverb
+      \verb{url}
+      \verb https://arushi-khokhar.medium.com/probabilistic-roadmap-prm-for-path-planning-in-robotics-d4f4b69475ea
+      \endverb
+    \endentry
+    \entry{Liu_ScientificReports_2025}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=7bb074c37d04e2fb30a473aa12102ae1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c4910df36bec2da172306358e36f666}
+      \strng{fullhash}{2c4910df36bec2da172306358e36f666}
+      \strng{fullhashraw}{2c4910df36bec2da172306358e36f666}
+      \strng{bibnamehash}{2c4910df36bec2da172306358e36f666}
+      \strng{authorbibnamehash}{2c4910df36bec2da172306358e36f666}
+      \strng{authornamehash}{2c4910df36bec2da172306358e36f666}
+      \strng{authorfullhash}{2c4910df36bec2da172306358e36f666}
+      \strng{authorfullhashraw}{2c4910df36bec2da172306358e36f666}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{note}{Accessed: 2024-05-22}
+      \field{number}{1}
+      \field{title}{Enhancing autonomous exploration for robotics via real time map optimization and improved frontier costs}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{pages}{12261}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-025-97231-9
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41598-025-97231-9
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41598-025-97231-9
+      \endverb
+    \endentry
+    \entry{MathWorks_SLAM}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=2d2b0d998977e6379aad61f1b56ac3c1}{%
+           family={{MathWorks}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{fullhash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{fullhashraw}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{bibnamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authorbibnamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authornamehash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authorfullhash}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \strng{authorfullhashraw}{2d2b0d998977e6379aad61f1b56ac3c1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.mathworks.com/discovery/slam.html}}
+      \field{note}{Accessed: 2024-05-22}
+      \field{title}{What Is {SLAM} ({Simultaneous} {Localization} and {Mapping})?}
+      \field{year}{n.d.}
+    \endentry
+    \entry{sayedmohamed_2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=60e64e56a8b4b10630db73a011e33347}{%
+           family={SayedMohamed},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Kaggle}%
+      }
+      \strng{namehash}{60e64e56a8b4b10630db73a011e33347}
+      \strng{fullhash}{60e64e56a8b4b10630db73a011e33347}
+      \strng{fullhashraw}{60e64e56a8b4b10630db73a011e33347}
+      \strng{bibnamehash}{60e64e56a8b4b10630db73a011e33347}
+      \strng{authorbibnamehash}{60e64e56a8b4b10630db73a011e33347}
+      \strng{authornamehash}{60e64e56a8b4b10630db73a011e33347}
+      \strng{authorfullhash}{60e64e56a8b4b10630db73a011e33347}
+      \strng{authorfullhashraw}{60e64e56a8b4b10630db73a011e33347}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Doors detection YOLO}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.34740/KAGGLE/DSV/6373320
+      \endverb
+      \verb{urlraw}
+      \verb https://www.kaggle.com/dsv/6373320
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/dsv/6373320
+      \endverb
+    \endentry
+    \entry{RobotShop_Yahboom_Nuwa}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=e668f2510849ef910cfc107bab6e816a}{%
+           family={{Yahboom}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{e668f2510849ef910cfc107bab6e816a}
+      \strng{fullhash}{e668f2510849ef910cfc107bab6e816a}
+      \strng{fullhashraw}{e668f2510849ef910cfc107bab6e816a}
+      \strng{bibnamehash}{e668f2510849ef910cfc107bab6e816a}
+      \strng{authorbibnamehash}{e668f2510849ef910cfc107bab6e816a}
+      \strng{authornamehash}{e668f2510849ef910cfc107bab6e816a}
+      \strng{authorfullhash}{e668f2510849ef910cfc107bab6e816a}
+      \strng{authorfullhashraw}{e668f2510849ef910cfc107bab6e816a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://ca.robotshop.com/products/yahboom-nuwa-hp60c-depth-camera-separate-camera}}
+      \field{note}{Available at RobotShop. Accessed: 2024-05-22}
+      \field{title}{Nuwa-{HP60C} Depth Camera - Separate camera}
+      \field{year}{n.d.}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
